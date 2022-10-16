@@ -1,0 +1,1 @@
+{"manga":["hello from nettruyen","hi from hvtt","blahblah"],"email":["you got new mail","hello there","lalalalala"]}

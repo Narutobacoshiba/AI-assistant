@@ -1,0 +1,1 @@
+{"mairimashita-iruma-kun": {"genre": ["comedy", "drama", "fantasy", "manga", "mystery", "schoollife", "shounen", "supernatural"], "chapter": 145.0, "view": 12130190, "status": "dangtienhanh"}}
